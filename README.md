@@ -21,7 +21,7 @@ No app to open. No prompt to type. The poem is already there when you wake up.
 
 ## Architecture
 
-![Architecture](screenshots/image3.png)
+![Architecture](screenshot/image3.png)
 
 | Service | Role |
 |---|---|
@@ -37,10 +37,10 @@ All services run on the **AWS Free Tier**.
 ## Screenshots
 
 ### Live Poem Webpage
-![Live App](screenshots/image1.png)
+![Live App](screenshot/image1.png)
 
 ### Lambda Console
-![Lambda](screenshots/image2.png)
+![Lambda](screenshot/image2.png)
 ---
 
 ## How It Works
