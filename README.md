@@ -21,6 +21,8 @@ No app to open. No prompt to type. The poem is already there when you wake up.
 
 ## Architecture
 
+![Architecture](screenshots/image3.png)
+
 | Service | Role |
 |---|---|
 | Amazon EventBridge | Triggers the agent every day at 6 AM UTC |
@@ -30,6 +32,15 @@ No app to open. No prompt to type. The poem is already there when you wake up.
 
 All services run on the **AWS Free Tier**.
 
+---
+
+## Screenshots
+
+### Live Poem Webpage
+![Live App](screenshots/image1.png)
+
+### Lambda Console
+![Lambda](screenshots/image2.png)
 ---
 
 ## How It Works
